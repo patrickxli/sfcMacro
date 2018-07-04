@@ -7,7 +7,6 @@
 Department of Mathematics and Statistics
 McMaster University
 
-@email: xihao.li@gmail.com
 """
 
 import sys, os
